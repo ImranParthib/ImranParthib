@@ -2,16 +2,54 @@
     <tr>
         <td width="65%">
             <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Computer+Science+and+Engineering+Graduate;Software+Developer;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
-            <p>
-                I am a recent Computer Science and Engineering graduate from Bangladesh, passionate about front-end web development. I specialize in creating responsive, interactive web experiences with <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Tailwind CSS</strong>, and <strong>Bootstrap</strong>. I also have experience with <strong>Firebase Authentication</strong> for secure web apps. I'm expanding my skills into backend technologies like <strong>Node.js</strong>, <strong>Express</strong>, <strong>MongoDB</strong>, and exploring <strong>AI</strong> and <strong>blockchain</strong>. 💻
-            </p>
+           <p>
+    I am a recent Computer Science and Engineering graduate from Bangladesh, passionate about front-end web development. I specialize in creating responsive, interactive web experiences.
+</p>
+
+### 🛠️ Tech Stack
+
+#### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### Programming Languages & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=treehouse&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-0081CB?style=for-the-badge&logo=codewars&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-7952B3?style=for-the-badge&logo=codecademy&logoColor=white)
+
+#### Exploring
+![AI](https://img.shields.io/badge/AI-0078D7?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+#### Problem Solving
+![URI](https://img.shields.io/badge/URI-4A154B?style=for-the-badge&logo=udemy&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+
 <p>
-    Along with web development, I have experience in C++, Java, Android development, and a solid understanding of data structures, algorithms, and OOP. I enjoy problem-solving on platforms like URI, HackerRank, and Codeforces. Outside of tech, I find inspiration in reading and writing.📚
+    Outside of tech, I find inspiration in reading and writing.📚
 </p>
  
 <p>
-   Eager to collaborate on innovative projects and create impactful solutions! Let’s connect and build something extraordinary! 🚀💡
-   #WebDevelopment #React #TailwindCSS #Firebase #RecentGraduate
+   Eager to collaborate on innovative projects and create impactful solutions! Let's connect and build something extraordinary! 🚀💡
+</p>
+
+<p>
+   <i>#WebDevelopment #React #TailwindCSS #Firebase #RecentGraduate</i>
 </p>
         </td>
         <td hieght="50%">  
