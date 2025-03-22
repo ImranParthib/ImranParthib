@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td width="65%">
-            <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Computer+Science+and+Engineering+Graduate;Software+Developer;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
+            <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Software+Developer;CSE+Graduate;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
      <p>
     Passionate Software Developer with a BSc in CSE, specializing in high-performance web applications using React, Next.js, Redux, and Tailwind CSS. Experienced in Firebase Authentication and expanding into full-stack development with Node.js, Express, and MongoDB.
 </p>
