@@ -88,22 +88,22 @@ These are my advanced and polished projects, showcasing full functionality and d
     </tr>  
   </thead>  
   <tbody> 
-	<tr>  
-	<td><strong>Online Kenakata</strong></td>  
-	<td>  
-		<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>  
-		<img src="https://img.shields.io/badge/-App%20Router-000000?style=flat&logo=next.js&logoColor=white" alt="App Router"/>  
-		<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
-		<img src="https://img.shields.io/badge/-Context%20API-61DAFB?style=flat&logo=react&logoColor=white" alt="Context API"/>  
-		<img src="https://img.shields.io/badge/-WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" alt="WooCommerce"/>  
-		<img src="https://img.shields.io/badge/-SSLCommerz-FFA500?style=flat&logo=mastercard&logoColor=white" alt="SSLCommerz"/>  
-	</td>  
-	<td><a href="https://onlinekenakata.vercel.app/" target="_blank">
-		<img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/>
-	</a></td>  
-	<td><img src="https://img.shields.io/badge/-Private%20Code-24292e?style=flat&logo=github&logoColor=white" alt="Private Code"/></td>  
-	<td><img src="./LatestWebProjects/onlinekenakata.png" alt="Online Kenakata Screenshot" width="150"/></td>  
-	</tr> 
+    <tr>  
+      <td><strong>Online Kenakata</strong></td>  
+      <td>  
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>  
+        <img src="https://img.shields.io/badge/-App%20Router-000000?style=flat&logo=next.js&logoColor=white" alt="App Router"/>  
+        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
+        <img src="https://img.shields.io/badge/-Context%20API-61DAFB?style=flat&logo=react&logoColor=white" alt="Context API"/>  
+        <img src="https://img.shields.io/badge/-WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" alt="WooCommerce"/>  
+        <img src="https://img.shields.io/badge/-SSLCommerz-FFA500?style=flat&logo=mastercard&logoColor=white" alt="SSLCommerz"/>  
+      </td>  
+      <td><a href="https://onlinekenakata.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+      </a></td>  
+      <td><img src="https://img.shields.io/badge/-Private%20Code-24292e?style=flat&logo=github&logoColor=white" alt="Private Code"/></td>  
+      <td><img src="./LatestWebProjects/onlinekenakata.png" alt="Online Kenakata Screenshot" width="150"/></td>  
+    </tr> 
     <tr>  
       <td><strong>PiLab</strong></td>  
       <td>  
@@ -117,21 +117,22 @@ These are my advanced and polished projects, showcasing full functionality and d
       <td><img src="./LatestWebProjects/pilab.png" alt="PiLab Screenshot" width="150"/></td>  
     </tr>   
     <tr>  
-		<td><strong>Islamic Mission Japan</strong></td>  
-		<td>  
-			<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>  
-			<img src="https://img.shields.io/badge/-Recoil-3578E5?style=flat&logo=react&logoColor=white" alt="Recoil"/>  
-			<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
-			<img src="https://img.shields.io/badge/-Framer%20Motion-FF0050?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>  
-			<img src="https://img.shields.io/badge/-Component%20Based-61DAFB?style=flat&logo=react&logoColor=white" alt="Component Based"/>  
-			<img src="https://img.shields.io/badge/-Single%20Page-000000?style=flat&logo=web&logoColor=white" alt="Single Page Website"/>  
-		</td>  
-		<td><a href="https://islamic-mission-japan.vercel.app/" target="_blank">
-			<img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/>
-		</a></td>  
-		<td><img src="https://img.shields.io/badge/-Private%20Code-24292e?style=flat&logo=github&logoColor=white" alt="Private Code"/></td>  
-		<td><img src="./LatestWebProjects/islamicmissionjapan.png" alt="Islamic Mission Japan Screenshot" width="150"/></td>  
-	</tr>
+      <td><strong>Islamic Mission Japan</strong></td>  
+      <td>  
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>  
+        <img src="https://img.shields.io/badge/-Recoil-3578E5?style=flat&logo=react&logoColor=white" alt="Recoil"/>  
+        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
+        <img src="https://img.shields.io/badge/-Framer%20Motion-FF0050?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>  
+        <img src="https://img.shields.io/badge/-Component%20Based-61DAFB?style=flat&logo=react&logoColor=white" alt="Component Based"/>  
+        <img src="https://img.shields.io/badge/-Single%20Page-000000?style=flat&logo=web&logoColor=white" alt="Single Page Website"/>  
+      </td>  
+      <td><a href="https://islamic-mission-japan.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+      </a></td>  
+      <td><img src="https://img.shields.io/badge/-Private%20Code-24292e?style=flat&logo=github&logoColor=white" alt="Private Code"/></td>  
+      <td><img src="./LatestWebProjects/islamicmissionjapan.png" alt="Islamic Mission Japan Screenshot" width="150"/></td>  
+    </tr>
+    <tr>
       <td><strong>StackBridge</strong></td>  
       <td>  
         <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>  
@@ -144,33 +145,31 @@ These are my advanced and polished projects, showcasing full functionality and d
       <td><a href="https://github.com/ImranParthib/StackBridge" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
       <td><img src="./LatestWebProjects/stackbridge.png" alt="StackBridge Screenshot" width="150"/></td>  
     </tr>  
-    
     <tr>  
-  <td><strong>Exam-Timer</strong></td>  
-  <td>  
-    <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>  
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
-    <img src="https://img.shields.io/badge/-Animation-ff69b4?style=plastic" alt="Animation"/>  
-  </td>  
-  <td><a href="https://exam-time-flight.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
-  <td><a href="https://github.com/ImranParthib/ExamTimeFlight" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
-  <td><img src="./LatestWebProjects/examtimer.png" alt="Exam-Timer Screenshot" width="150"/></td>  
-</tr>
- 
-<tr>  
-  <td><strong>ReactCafe</strong></td>  
-  <td>  
-    <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>  
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
-    <img src="https://img.shields.io/badge/-Context%20API-ffaa00?style=plastic" alt="Context API"/>  
-  </td>  
-  <td><a href="https://reactcafe.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
-  <td><a href="https://github.com/Space-Cruiser/Learning_Cafe" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
-  <td><img src="./LatestWebProjects/reactcafe.png" alt="ReactCafe Screenshot" width="150"/></td>  
-</tr>
-</tbody>  
+      <td><strong>Exam-Timer</strong></td>  
+      <td>  
+        <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>  
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
+        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
+        <img src="https://img.shields.io/badge/-Animation-ff69b4?style=plastic" alt="Animation"/>  
+      </td>  
+      <td><a href="https://exam-time-flight.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+      <td><a href="https://github.com/ImranParthib/ExamTimeFlight" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
+      <td><img src="./LatestWebProjects/examtimer.png" alt="Exam-Timer Screenshot" width="150"/></td>  
+    </tr>
+    <tr>  
+      <td><strong>ReactCafe</strong></td>  
+      <td>  
+        <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>  
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
+        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
+        <img src="https://img.shields.io/badge/-Context%20API-ffaa00?style=plastic" alt="Context API"/>  
+      </td>  
+      <td><a href="https://reactcafe.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+      <td><a href="https://github.com/Space-Cruiser/Learning_Cafe" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
+      <td><img src="./LatestWebProjects/reactcafe.png" alt="ReactCafe Screenshot" width="150"/></td>  
+    </tr>
+  </tbody>  
 </table>
 
 ### 🌐 Connect with Me:
