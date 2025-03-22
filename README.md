@@ -77,7 +77,6 @@
 ## **Latest Projects** 🚀
 
 These are my advanced and polished projects, showcasing full functionality and design.
-
 <table>  
   <thead>  
     <tr>  
