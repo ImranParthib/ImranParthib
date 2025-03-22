@@ -2,17 +2,16 @@
     <tr>
         <td width="65%">
             <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Computer+Science+and+Engineering+Graduate;Software+Developer;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
-            <p>
-    I am a recent Computer Science and Engineering graduate from Bangladesh, passionate about front-end web development. I specialize in creating responsive, interactive web experiences with HTML5, CSS3, JavaScript, React,Nextjs, Tailwind CSS, and Bootstrap. I also have experience with Firebase Authentication for secure web apps. I'm expanding my skills into backend technologies like Node.js, Express, MongoDB, and exploring AI and blockchain. 💻
+     <p>
+    Passionate Software Developer with a BSc in CSE, specializing in high-performance web applications using React, Next.js, Redux, and Tailwind CSS. Experienced in Firebase Authentication and expanding into full-stack development with Node.js, Express, and MongoDB.
 </p>
 <p>
-    Along with web development, I have experience in C++, Java, Android development, and a solid understanding of data structures, algorithms, and OOP. I enjoy problem-solving on platforms like URI, HackerRank, and Codeforces. Outside of tech, I find inspiration in reading and writing.📚
+    Proficient in C++, Java, Android development, and well-versed in data structures, algorithms, and OOP. Enjoys problem-solving on platforms like URI, HackerRank, and Codeforces. Outside tech, finds inspiration in reading and writing. 📚
 </p>
- 
 <p>
-   Eager to collaborate on innovative projects and create impactful solutions! Let’s connect and build something extraordinary! 🚀💡
-   #WebDevelopment #React #TailwindCSS #Firebase #RecentGraduate
+    Open to collaboration on innovative projects. Let’s connect and build something impactful! 🚀 #WebDevelopment #React #NextJS #TailwindCSS #RecentGraduate
 </p>
+
         </td>
         <td hieght="50%">  
  <img src="./image/portfolio.png" width=" ">
