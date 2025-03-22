@@ -193,13 +193,6 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 - 📝 I regularly write articles on [https://dev.to/imranparthib](https://dev.to/imranparthib)
 
-- 💬 Ask me about **react,javascript,development,programming(Javascript,Java,C++,python), frontend**
-
-- 📫 How to reach me **imranparthib13@gmail.com,https://www.linkedin.com/in/imranparthib/**
-
-- 📄 Know about my experiences
-  [here](https://imranparthib.me)
-
 - ⚡ Fun fact **"Once lost in the prose of novels, now found in the elegance of code. My story evolved, chapters
   rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖💻✨ #NovelsToCode"**
 
