@@ -11,7 +11,6 @@
 <p>
     Open to collaboration on innovative projects. Let’s connect and build something impactful! 🚀 #WebDevelopment #React #NextJS #TailwindCSS #RecentGraduate
 </p>
-
         </td>
         <td hieght="50%">  
  <img src="./image/portfolio.png" width=" ">
