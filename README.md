@@ -115,8 +115,7 @@ These are my advanced and polished projects, showcasing full functionality and d
       <td><a href="https://pilab.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
       <td><a href="https://github.com/ImranParthib/PiLab" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
       <td><img src="./LatestWebProjects/pilab.png" alt="PiLab Screenshot" width="150"/></td>  
-    </tr>  
-    <tr>  
+    </tr>   
     <tr>  
 		<td><strong>Islamic Mission Japan</strong></td>  
 		<td>  
@@ -171,11 +170,7 @@ These are my advanced and polished projects, showcasing full functionality and d
   <td><a href="https://github.com/Space-Cruiser/Learning_Cafe" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
   <td><img src="./LatestWebProjects/reactcafe.png" alt="ReactCafe Screenshot" width="150"/></td>  
 </tr>
-
- 
- 
-
-  </tbody>  
+</tbody>  
 </table>
 
 ### 🌐 Connect with Me:
