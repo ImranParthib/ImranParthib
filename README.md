@@ -12,8 +12,10 @@
     Open to collaboration on innovative projects. Let’s connect and build something impactful! 🚀 #WebDevelopment #React #NextJS #TailwindCSS #RecentGraduate
 </p>
         </td>
-        <td hieght="50%">  
- <img src="./image/portfolio.png" width=" ">
+        <video width="320" height="240" controls>
+            <source src="./video/portfolio.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
  
 <p>
     <a href="https://imranparthib.me/" >
