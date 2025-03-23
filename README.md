@@ -182,11 +182,11 @@ These are my advanced and polished projects, showcasing full functionality and d
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Best Skills to Learn in 2025 | High-Demand Skills for Success!](https://www.youtube.com/watch?v=iZpdb4Nq01Y)
 - [Pervasive Computing and Android Development #appdevelopment #java #android](https://www.youtube.com/watch?v=tEAR8BBwwd8)
 - [When your instincts align with CPP😄.](https://www.youtube.com/watch?v=mnQ8tnvUODY)
 - [When cpp prgrammer forced to write kotlin programming 😄](https://www.youtube.com/watch?v=8bqm_FL-FAg)
 - [Exam Time Flight    #javascript  #programming #react](https://www.youtube.com/watch?v=9JXNA-bOuDY)
-- [Congratulations You Found Me Gift&lpar;নিজেকে খুঁজে ফিরে&rpar;_Suno Music #ai #song  #trending](https://www.youtube.com/watch?v=SMVQD3MQKgE)
 <!-- YOUTUBE:END -->
 
 ## 🌐 Stay Updated with me:
