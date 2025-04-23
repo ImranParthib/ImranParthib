@@ -3,10 +3,10 @@
         <td width="65%">
             <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Software+Developer;CSE+Graduate;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
      <p>
-    Passionate Software Developer with a BSc in CSE, specializing in high-performance web applications using React, Next.js, Redux, and Tailwind CSS. Experienced in Firebase Authentication and expanding into full-stack development with Node.js, Express, and MongoDB.
+    Passionate Software Developer with a BSc in CSE, specializing in high-performance web applications using React, Next.js, and Tailwind CSS. Experienced in Firebase Authentication and expanding into full-stack development with Node.js, Express, and MongoDB.
 </p>
 <p>
-    Proficient in C++, Java, Android development, and well-versed in data structures, algorithms, and OOP. Enjoys problem-solving on platforms like URI, HackerRank, and Codeforces. Outside tech, finds inspiration in reading and writing. 📚
+    Comfortable with C++, Java, and Android development, with a solid understanding of data structures, algorithms, and object-oriented programming. Enjoys problem-solving,Beyond tech, finds inspiration in reading and writing 📚.
 </p>
 <p>
     Open to collaboration on innovative projects. Let’s connect and build something impactful! 🚀 #WebDevelopment #React #NextJS #TailwindCSS #RecentGraduate
