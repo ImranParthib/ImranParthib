@@ -182,11 +182,11 @@ These are my advanced and polished projects, showcasing full functionality and d
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Review of portfolio websites along with some development tips for using Git and GitHub.](https://www.youtube.com/watch?v=A7FOtwAkfJU)
 - [Top 5 Programming Languages to Learn in 2025 &lpar;In Just 5 Minutes!&rpar; #programming #top #viralvideo](https://www.youtube.com/watch?v=Qb9EgK-g1Rc)
 - [I sold my first SaaS for $50,000](https://www.youtube.com/watch?v=9EmybwEprmQ)
 - [Best Skills to Learn in 2025 | High-Demand Skills for Success!](https://www.youtube.com/watch?v=iZpdb4Nq01Y)
 - [Pervasive Computing and Android Development #appdevelopment #java #android](https://www.youtube.com/watch?v=tEAR8BBwwd8)
-- [When your instincts align with CPP😄.](https://www.youtube.com/watch?v=mnQ8tnvUODY)
 <!-- YOUTUBE:END -->
 
 ## 🌐 Stay Updated with me:
