@@ -182,7 +182,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Top 10 AI Editor For Web Developers](https://www.youtube.com/watch?v=VzzE-2PmtlI)
+- [Top 10 AI Editor For Web Developers #coding #ai #programming #webdevelopment #trending #trend  #2025](https://www.youtube.com/watch?v=VzzE-2PmtlI)
 - [Review of portfolio websites along with some development tips for using Git and GitHub.](https://www.youtube.com/watch?v=A7FOtwAkfJU)
 - [Top 5 Programming Languages to Learn in 2025 &lpar;In Just 5 Minutes!&rpar; #programming #top #viralvideo](https://www.youtube.com/watch?v=Qb9EgK-g1Rc)
 - [I sold my first SaaS for $50,000](https://www.youtube.com/watch?v=9EmybwEprmQ)
