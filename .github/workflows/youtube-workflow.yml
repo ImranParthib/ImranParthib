@@ -2,7 +2,7 @@ name: YouTube Videos
 on:
   push:
   schedule:
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
   workflow_dispatch:
 
 jobs:
