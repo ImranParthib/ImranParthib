@@ -181,8 +181,8 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 ### 🎥 Latest YouTube Videos
 <table>
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
 ## 🌐 Stay Updated with me:
