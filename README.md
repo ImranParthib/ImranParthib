@@ -179,15 +179,11 @@ These are my advanced and polished projects, showcasing full functionality and d
 - [Navigating the Sea of Software Development: A Conscious Approach](https://dev.to/imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-3gcc)
 <!-- BLOG-POST-LIST:END -->
 
-### Latest Youtube Videos
-
+### 🎥 Latest YouTube Videos
+<table>
 <!-- YOUTUBE:START -->
-- [Top 10 AI Editor For Web Developers #coding #ai #programming #webdevelopment #trending #trend  #2025](https://www.youtube.com/watch?v=VzzE-2PmtlI)
-- [Review of portfolio websites along with some development tips for using Git and GitHub.](https://www.youtube.com/watch?v=A7FOtwAkfJU)
-- [Top 5 Programming Languages to Learn in 2025 &lpar;In Just 5 Minutes!&rpar; #programming #top #viralvideo](https://www.youtube.com/watch?v=Qb9EgK-g1Rc)
-- [I sold my first SaaS for $50,000](https://www.youtube.com/watch?v=9EmybwEprmQ)
-- [Best Skills to Learn in 2025 | High-Demand Skills for Success!](https://www.youtube.com/watch?v=iZpdb4Nq01Y)
 <!-- YOUTUBE:END -->
+</table>
 
 ## 🌐 Stay Updated with me:
 
