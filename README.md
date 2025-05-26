@@ -181,7 +181,8 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 ### 🎥 Latest YouTube Videos
 <table>
-<!-- YOUTUBE:START --><tr><td><a href='https://www.youtube.com/watch?v=VzzE-2PmtlI'><img width='140px' src='https://i.ytimg.com/vi/$videoId/mqdefault.jpg'></a></td><td><a href='https://www.youtube.com/watch?v=VzzE-2PmtlI'>Top 10 AI Editor For Web Developers #coding #ai #programming #webdevelopment #trending #trend  #2025</a></td></tr><tr><td><a href='https://www.youtube.com/watch?v=A7FOtwAkfJU'><img width='140px' src='https://i.ytimg.com/vi/$videoId/mqdefault.jpg'></a></td><td><a href='https://www.youtube.com/watch?v=A7FOtwAkfJU'>Review of portfolio websites along with some development tips for using Git and GitHub.</a></td></tr><tr><td><a href='https://www.youtube.com/watch?v=Qb9EgK-g1Rc'><img width='140px' src='https://i.ytimg.com/vi/$videoId/mqdefault.jpg'></a></td><td><a href='https://www.youtube.com/watch?v=Qb9EgK-g1Rc'>Top 5 Programming Languages to Learn in 2025 &lpar;In Just 5 Minutes!&rpar; #programming #top #viralvideo</a></td></tr><tr><td><a href='https://www.youtube.com/watch?v=9EmybwEprmQ'><img width='140px' src='https://i.ytimg.com/vi/$videoId/mqdefault.jpg'></a></td><td><a href='https://www.youtube.com/watch?v=9EmybwEprmQ'>I sold my first SaaS for $50,000</a></td></tr><tr><td><a href='https://www.youtube.com/watch?v=iZpdb4Nq01Y'><img width='140px' src='https://i.ytimg.com/vi/$videoId/mqdefault.jpg'></a></td><td><a href='https://www.youtube.com/watch?v=iZpdb4Nq01Y'>Best Skills to Learn in 2025 | High-Demand Skills for Success!</a></td></tr><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 </table>
 
 ## 🌐 Stay Updated with me:
