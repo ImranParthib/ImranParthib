@@ -86,7 +86,7 @@ These are my advanced and polished projects, showcasing full functionality and d
         <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
         <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>  
       </td>  
-      <td><a href="https://pilab.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+      <td><a href="https://pilab.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
       <td><a href="https://github.com/ImranParthib/PiLab" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
       <td><img src="./LatestWebProjects/pilab.png" alt="PiLab Screenshot" width="150"/></td>  
     </tr>   
