@@ -177,8 +177,8 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@decode_us?sub_confirmation=1)
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 </table>
 
 ## 🌐 Stay Updated with me:
