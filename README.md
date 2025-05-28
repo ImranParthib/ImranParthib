@@ -172,16 +172,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 ### Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VzzE-2PmtlI"><img width="140px" src="http://img.youtube.com/vi/VzzE-2PmtlI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VzzE-2PmtlI">Top 10 AI Editor For Web Developers #coding #ai #programming #webdevelopment #trending #trend  #2025</a><br/>May 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=A7FOtwAkfJU"><img width="140px" src="http://img.youtube.com/vi/A7FOtwAkfJU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=A7FOtwAkfJU">Review of portfolio websites along with some development tips for using Git and GitHub.</a><br/>May 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Qb9EgK-g1Rc"><img width="140px" src="http://img.youtube.com/vi/Qb9EgK-g1Rc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Qb9EgK-g1Rc">Top 5 Programming Languages to Learn in 2025 &lpar;In Just 5 Minutes!&rpar; #programming #top #viralvideo</a><br/>Mar 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9EmybwEprmQ"><img width="140px" src="http://img.youtube.com/vi/9EmybwEprmQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9EmybwEprmQ">I sold my first SaaS for $50,000</a><br/>Mar 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=iZpdb4Nq01Y"><img width="140px" src="http://img.youtube.com/vi/iZpdb4Nq01Y/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iZpdb4Nq01Y">Best Skills to Learn in 2025 | High-Demand Skills for Success!</a><br/>Mar 23, 2025</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
@@ -192,16 +183,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=--WvAIf09ik"><img width="140px" src="https://i.ytimg.com/vi/--WvAIf09ik/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=--WvAIf09ik">&lpar;Maragatha Naanayam&rpar; Nee Kavithagala - Fingerstyle Guitar Cover | Alwin John</a><br/>Apr 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GRUfOudjNTc"><img width="140px" src="https://i.ytimg.com/vi/GRUfOudjNTc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GRUfOudjNTc">Mel Mel from Ustad Hotel - Fingerstyle Guitar Cover</a><br/>Nov 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Y3p3_1l4ChY"><img width="140px" src="https://i.ytimg.com/vi/Y3p3_1l4ChY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Y3p3_1l4ChY">Athmave Po &lpar;Romancham&rpar; - Fingerstyle Guitar Cover | Alwin John</a><br/>Apr 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=I9Q_GjEU7mg"><img width="140px" src="https://i.ytimg.com/vi/I9Q_GjEU7mg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=I9Q_GjEU7mg">Athmave Po &lpar;Romancham&rpar; - Fingerstyle Guitar Cover | Alwin John</a><br/>Apr 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tMiRSBaToLg"><img width="140px" src="https://i.ytimg.com/vi/tMiRSBaToLg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tMiRSBaToLg">How to prepare for a Software Job? - My Frontend Engineering Prep</a><br/>Sep 8, 2023</td></tr></table>
+<!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ---
