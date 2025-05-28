@@ -1,22 +1,22 @@
-name: YouTube Videos
+name: Latest YouTube Videos
 on:
-  push:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
   workflow_dispatch:
+permissions:
+      contents: write
 
 jobs:
-  youtube:
-    name: Latest Videos from YouTube
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
-          max_post_count: 5
-          commit_message: "Updated with the latest YouTube videos"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCqDDW151oyaUM2o_znM1GBA"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '<tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a></td></tr>'
+          template: '<table><tr><td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          committer_email: "alwinjohn231@gmail.com"

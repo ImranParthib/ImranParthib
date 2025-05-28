@@ -179,11 +179,27 @@ These are my advanced and polished projects, showcasing full functionality and d
 - [Navigating the Sea of Software Development: A Conscious Approach](https://dev.to/imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-3gcc)
 <!-- BLOG-POST-LIST:END -->
 
-### 🎥 Latest YouTube Videos
-<table>
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-</table>
+### 📺 Latest YouTube Videos
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/AlwinJohn?sub_confirmation=1)
+
+</div>
+
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=--WvAIf09ik"><img width="140px" src="https://i.ytimg.com/vi/--WvAIf09ik/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=--WvAIf09ik">&lpar;Maragatha Naanayam&rpar; Nee Kavithagala - Fingerstyle Guitar Cover | Alwin John</a><br/>Apr 21, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GRUfOudjNTc"><img width="140px" src="https://i.ytimg.com/vi/GRUfOudjNTc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GRUfOudjNTc">Mel Mel from Ustad Hotel - Fingerstyle Guitar Cover</a><br/>Nov 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Y3p3_1l4ChY"><img width="140px" src="https://i.ytimg.com/vi/Y3p3_1l4ChY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Y3p3_1l4ChY">Athmave Po &lpar;Romancham&rpar; - Fingerstyle Guitar Cover | Alwin John</a><br/>Apr 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=I9Q_GjEU7mg"><img width="140px" src="https://i.ytimg.com/vi/I9Q_GjEU7mg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=I9Q_GjEU7mg">Athmave Po &lpar;Romancham&rpar; - Fingerstyle Guitar Cover | Alwin John</a><br/>Apr 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tMiRSBaToLg"><img width="140px" src="https://i.ytimg.com/vi/tMiRSBaToLg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tMiRSBaToLg">How to prepare for a Software Job? - My Frontend Engineering Prep</a><br/>Sep 8, 2023</td></tr></table>
+<!-- YOUTUBE:END -->
+
+---
 
 ## 🌐 Stay Updated with me:
 
