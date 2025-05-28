@@ -175,18 +175,11 @@ These are my advanced and polished projects, showcasing full functionality and d
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### 📺 Latest YouTube Videos
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/AlwinJohn?sub_confirmation=1)
-
-</div>
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
+### 🎥 [Latest YouTube Videos](https://youtube.com/@decode_us?sub_confirmation=1)
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
 
 ## 🌐 Stay Updated with me:
 
