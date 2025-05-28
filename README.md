@@ -171,10 +171,10 @@ These are my advanced and polished projects, showcasing full functionality and d
   rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖💻✨ #NovelsToCode"**
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@decode_us?sub_confirmation=1)
-
+<table>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-
+</table>
 
 ### 📝 [Latest Blog Posts](https://dev.to/imranparthib)
 <!-- BLOG-POST-LIST:START -->
