@@ -170,11 +170,11 @@ These are my advanced and polished projects, showcasing full functionality and d
 - ⚡ Fun fact **"Once lost in the prose of novels, now found in the elegance of code. My story evolved, chapters
   rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖💻✨ #NovelsToCode"**
 
-### 🎥 [Latest YouTube Videos](https://youtube.com/@dhanushnehru?sub_confirmation=1)
-<table>
+### 🎥 [Latest YouTube Videos](https://youtube.com/@decode_us?sub_confirmation=1)
+
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-</table>
+
 
 ### 📝 [Latest Blog Posts](https://dev.to/imranparthib)
 <!-- BLOG-POST-LIST:START -->
