@@ -155,20 +155,17 @@ These are my advanced and polished projects, showcasing full functionality and d
     </a>
 </p>
 
-- 🔭 I’m currently working on [PiLab](https://github.com/ImranParthib/PiLab)
+- 🔭 I’m currently working on [E-Commerce-App](https://extramile.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js,Node.js,Express.js,MongoDB**
 
-- 👯 I’m looking to collaborate on [Task Management App](https://github.com/ImranParthib13/Task-Management-App)
-
-- 🤝 I’m looking for help with [DevInsights](https://github.com/ImranParthib13/DevInsights)
+- 👯 I’m looking to collaborate on [Pilab](https://github.com/ImranParthib/pilab)
 
 - 👨‍💻 All of my projects are available at [https://imranparthib.me](https://imranparthib.me)
 
 - 📝 I regularly write articles on [https://dev.to/imranparthib](https://dev.to/imranparthib)
 
-- ⚡ Fun fact **"Once lost in the prose of novels, now found in the elegance of code. My story evolved, chapters
-  rewritten in algorithms, crafting a digital saga of dreams-turned-reality. 📖💻✨ #NovelsToCode"**
+- ⚡ Fun fact: Once lost in the prose of novels, now found in the elegance of code. My story evolved—chapters rewritten in the world of software development, chasing dreams to turn them into reality. 📖💻✨ #NovelsToCode 📖💻✨ #NovelsToCode"**
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@decode_us?sub_confirmation=1)
 
