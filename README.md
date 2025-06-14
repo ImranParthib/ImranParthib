@@ -146,6 +146,12 @@ These are my advanced and polished projects, showcasing full functionality and d
   </tbody>  
 </table>
 
+<p align="center">
+  <a href="https://github.com/ImranParthib/My_Dev_Archive" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All-Projects-blue?style=for-the-badge&logo=github" alt="View All Projects" />
+  </a>
+</p>
+
 ### 🌐 Connect with Me:
 
 <p align="left">
@@ -257,7 +263,7 @@ These are my advanced and polished projects, showcasing full functionality and d
     </tr>
 </table>
 <be>
-<img src="https://raw.githubusercontent.com/ImranParthib/ImranParthib/output/snake.svg" alt="Snake animation"/>
+<!-- <img src="https://raw.githubusercontent.com/ImranParthib/ImranParthib/output/snake.svg" alt="Snake animation"/> -->
     ✍️Random Dev Quote & Meme:
     <table>
         <tr>
