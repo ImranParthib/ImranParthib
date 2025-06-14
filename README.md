@@ -169,7 +169,9 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@decode_us?sub_confirmation=1)
 
-<!-- YOUTUBE-VIDEOS-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VzzE-2PmtlI"><img width="140px" src="http://img.youtube.com/vi/VzzE-2PmtlI/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><table><tr><td><a href="https://www.youtube.com/shorts/SgLfADL7EJs"><img width="140px" src="http://img.youtube.com/vi/SgLfADL7EJs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/SgLfADL7EJs">Next.js 14 Is a Game Changer for React Developers! #Next.js  #reels  #developer  #2025</a><br/>Jun 14, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VzzE-2PmtlI"><img width="140px" src="http://img.youtube.com/vi/VzzE-2PmtlI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VzzE-2PmtlI">Top 10 AI Editor For Web Developers #coding #ai #programming #webdevelopment #trending #trend  #2025</a><br/>May 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=A7FOtwAkfJU"><img width="140px" src="http://img.youtube.com/vi/A7FOtwAkfJU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=A7FOtwAkfJU">Review of portfolio websites along with some development tips for using Git and GitHub.</a><br/>May 7, 2025</td></tr></table>
@@ -177,8 +179,6 @@ These are my advanced and polished projects, showcasing full functionality and d
 <td><a href="https://www.youtube.com/watch?v=Qb9EgK-g1Rc">Top 5 Programming Languages to Learn in 2025 &lpar;In Just 5 Minutes!&rpar; #programming #top #viralvideo</a><br/>Mar 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9EmybwEprmQ"><img width="140px" src="http://img.youtube.com/vi/9EmybwEprmQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9EmybwEprmQ">I sold my first SaaS for $50,000</a><br/>Mar 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=iZpdb4Nq01Y"><img width="140px" src="http://img.youtube.com/vi/iZpdb4Nq01Y/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iZpdb4Nq01Y">Best Skills to Learn in 2025 | High-Demand Skills for Success!</a><br/>Mar 23, 2025</td></tr></table>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
