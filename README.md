@@ -265,7 +265,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 <be>
 <!-- <img src="https://raw.githubusercontent.com/ImranParthib/ImranParthib/output/snake.svg" alt="Snake animation"/> -->
     ✍️Random Dev Quote & Meme:
-    <table>
+    <!-- <table>
         <tr>
             <td>
                 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
@@ -275,4 +275,4 @@ These are my advanced and polished projects, showcasing full functionality and d
                 <img src='https://randommeme-five.vercel.app/' style="height: 300px;" />
             </td>
         </tr>
-    </table>
+    </table> -->
