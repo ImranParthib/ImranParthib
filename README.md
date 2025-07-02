@@ -264,7 +264,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 </table>
 <be>
 <!-- <img src="https://raw.githubusercontent.com/ImranParthib/ImranParthib/output/snake.svg" alt="Snake animation"/> -->
-    ✍️Random Dev Quote & Meme:
+    <!-- ✍️Random Dev Quote & Meme: -->
     <!-- <table>
         <tr>
             <td>
