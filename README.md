@@ -16,7 +16,7 @@
  <img src="./image/portfolio.png" width=" ">
  
 <p>
-    <a href="https://imranparthib.me/" >
+    <a href="https://imranparthib.vercel.app/" >
     <img src="./image/image.png" alt="alt text" style="width: 15px;"/>
     Portfolio Link
     </a>
