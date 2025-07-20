@@ -51,6 +51,7 @@
 ## **Latest Projects** 🚀
 
 These are my advanced and polished projects, showcasing full functionality and design.
+
 <table>  
   <thead>  
     <tr>  
@@ -167,11 +168,11 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 - 👯 I’m looking to collaborate on [Pilab](https://github.com/ImranParthib/pilab)
 
-- 👨‍💻 All of my projects are available at [https://imranparthib.me](https://imranparthib.me)
+- 👨‍💻 All of my projects are available at [https://imranparthib.vercel.app](https://imranparthib.vercel.app)
 
 - 📝 I regularly write articles on [https://dev.to/imranparthib](https://dev.to/imranparthib)
 
-- ⚡ Fun fact: Once lost in the prose of novels, now found in the elegance of code. My story evolved—chapters rewritten in the world of software development, chasing dreams to turn them into reality. 📖💻✨ #NovelsToCode 📖💻✨ #NovelsToCode"**
+- ⚡ Fun fact: Once lost in the prose of novels, now found in the elegance of code. My story evolved—chapters rewritten in the world of software development, chasing dreams to turn them into reality. 📖💻✨ #NovelsToCode 📖💻✨ #NovelsToCode"\*\*
 
 ### 🎥 [Latest YouTube Videos](https://youtube.com/@decode_us?sub_confirmation=1)
 
@@ -187,9 +188,10 @@ These are my advanced and polished projects, showcasing full functionality and d
 <td><a href="https://www.youtube.com/watch?v=9EmybwEprmQ">I sold my first SaaS for $50,000</a><br/>Mar 24, 2025</td></tr></table>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-
 ### 📝 [Latest Blog Posts](https://dev.to/imranparthib)
+
 <!-- BLOG-POST-LIST:START -->
+
 - [# JavaScript ES6 Features](https://dev.to/imranparthib/-javascript-es6-features-35di)
 - [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
 - [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://dev.to/imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-14m5)
