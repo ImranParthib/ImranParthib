@@ -38,6 +38,6 @@ jobs:
               </tr>
             </table>
             $newline
-          committer_email: "alwinjohn231@gmail.com"
+          committer_email: "imranparthib13@gmail.com"
           commit_message: "chore: update latest YouTube videos"
           description_max_length: 140
