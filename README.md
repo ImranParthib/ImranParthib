@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td width="65%">
-            <h1>Hi 👋, I'm Imran Parthib<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Software+Developer;CSE+Graduate;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
+            <h1>Hi 👋, I'm Md Imran Hossain<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=100&random=false&width=445&lines=Software+Developer;CSE+Graduate;Programming+Enthusiast;Problem+Solver;Thinker+and+Reformer" alt="Typing SVG" /></a></h1>
      <p>
     Passionate Software Developer with a BSc in CSE, specializing in high-performance web applications using React, Next.js, and Tailwind CSS. Experienced in Firebase Authentication and expanding into full-stack development with Node.js, Express, and MongoDB.
 </p>
@@ -16,7 +16,7 @@
  <img src="./image/website.png" width=" ">
  
 <p>
-    <a href="https://imranparthib.vercel.app/" >
+    <a href="https://mdimranhs.vercel.app/" >
     <img src="./image/image.png" alt="alt text" style="width: 15px;"/>
     Portfolio Link
     </a>
@@ -48,12 +48,12 @@
 </table>
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=ImranParthib&label=Profile%20views&color=0e75b6&style=flat"
-        alt="ImranParthib" /> </p>
+        src="https://komarev.com/ghpvc/?username=mdimranhs&label=Profile%20views&color=0e75b6&style=flat"
+        alt="mdimranhs" /> </p>
 
 ## 🏆 GitHub Trophies
 
-![](https://trophy.benkou.dev/?username=imranparthib&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://trophy.benkou.dev/?username=mdimranhs&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ## **Latest Projects** 🚀
 
@@ -112,7 +112,7 @@ These are my advanced and polished projects, showcasing full functionality and d
         <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>  
       </td>  
       <td><a href="https://pilab.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
-      <td><a href="https://github.com/ImranParthib/PiLab" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
+      <td><a href="https://github.com/mdimranhs/PiLab" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
       <td><img src="./LatestWebProjects/pilab.png" alt="PiLab Screenshot" width="150"/></td>  
     </tr>   
     <tr>  
@@ -141,7 +141,7 @@ These are my advanced and polished projects, showcasing full functionality and d
         <img src="https://img.shields.io/badge/-Animated%20Cursor-fedcba?style=plastic" alt="Animated Cursor"/>  
       </td>  
       <td><a href="https://stack-bridge-bay.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
-      <td><a href="https://github.com/ImranParthib/StackBridge" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
+      <td><a href="https://github.com/mdimranhs/StackBridge" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
       <td><img src="./LatestWebProjects/stackbridge.png" alt="StackBridge Screenshot" width="150"/></td>  
     </tr>  
     <!-- <tr>  
@@ -153,7 +153,7 @@ These are my advanced and polished projects, showcasing full functionality and d
         <img src="https://img.shields.io/badge/-Animation-ff69b4?style=plastic" alt="Animation"/>  
       </td>  
       <td><a href="https://exam-time-flight.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
-      <td><a href="https://github.com/ImranParthib/ExamTimeFlight" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
+      <td><a href="https://github.com/mdimranhs/ExamTimeFlight" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
       <td><img src="./LatestWebProjects/examtimer.png" alt="Exam-Timer Screenshot" width="150"/></td>  
     </tr> -->
     <!-- <tr>  
@@ -172,7 +172,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 </table>
 
 <p align="center">
-  <a href="https://github.com/ImranParthib/My_Dev_Archive" target="_blank">
+  <a href="https://github.com/mdimranhs/My_Dev_Archive" target="_blank">
     <img src="https://img.shields.io/badge/View%20All-Projects-blue?style=for-the-badge&logo=github" alt="View All Projects" />
   </a>
 </p>
@@ -180,9 +180,9 @@ These are my advanced and polished projects, showcasing full functionality and d
 <!-- ### 🌐 Connect with Me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/imranparthib/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-ImranParthib%20✔-0077B5?style=for-the-badge&logo=linkedin"
-            alt="imranparthib" />
+    <a href="https://www.linkedin.com/in/mdimranhs/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-MdImranHossain%20✔-0077B5?style=for-the-badge&logo=linkedin"
+            alt="mdimranhs" />
     </a>
 </p> -->
 
@@ -235,40 +235,40 @@ These are my advanced and polished projects, showcasing full functionality and d
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
-### 📝 [Latest Blog Posts](https://dev.to/imranparthib)
+### 📝 [Latest Blog Posts](https://dev.to/mdimranhs)
 
 <!-- BLOG-POST-LIST:START -->
-- [From Custom Domain to Vercel Subdomain: How I Recovered My SEO Rankings](https://dev.to/imranparthib/from-custom-domain-to-vercel-subdomain-how-i-recovered-my-seo-rankings-56i7)
-- [# JavaScript ES6 Features](https://dev.to/imranparthib/-javascript-es6-features-35di)
-- [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/imranparthib/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
-- [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://dev.to/imranparthib/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-14m5)
-- [Navigating the Sea of Software Development: A Conscious Approach](https://dev.to/imranparthib/navigating-the-sea-of-software-development-a-conscious-approach-3gcc)
+- [From Custom Domain to Vercel Subdomain: How I Recovered My SEO Rankings](https://dev.to/mdimranhs/from-custom-domain-to-vercel-subdomain-how-i-recovered-my-seo-rankings-56i7)
+- [# JavaScript ES6 Features](https://dev.to/mdimranhs/-javascript-es6-features-35di)
+- [Understanding Arrow Functions in JavaScript: Advantages and Best Practices](https://dev.to/mdimranhs/understanding-arrow-functions-in-javascript-advantages-and-best-practices-1am7)
+- [Embracing 2024: A Guide to Personal, Community, and Technological Contributions Introduction](https://dev.to/mdimranhs/embracing-2024-a-guide-to-personal-community-and-technological-contributions-introduction-14m5)
+- [Navigating the Sea of Software Development: A Conscious Approach](https://dev.to/mdimranhs/navigating-the-sea-of-software-development-a-conscious-approach-3gcc)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Stay Updated with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/imranparthib" target="blank"><img align="center"
+<a href="https://linkedin.com/in/mdimranhs" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="imranparthib" height="30" width="40" /></a>
-<!-- <a href="https://discord.gg/imranparthib" target="blank"><img align="center"
+            alt="mdimranhs" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/mdimranhs" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="imranparthib" height="30" width="40" /></a> -->
-<a href="https://www.facebook.com/ImranPathib.Dev" target="blank"><img align="center"
+            alt="mdimranhs" height="30" width="40" /></a> -->
+<a href="https://www.facebook.com/mdimranhs.dev" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="imranparthib" height="30" width="40" /></a>
+            alt="mdimranhs" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@decode_us_" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="@decode_us_" height="30" width="40" /></a>            
 <a href="https://instagram.com/decode_us" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="decode_us" height="30" width="40" /></a>  
-<!-- <a href="https://twitter.com/imranparthib" target="blank"><img align="center"
+<!-- <a href="https://twitter.com/mdimranhs" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="imranparthib" height="30" width="40" /></a> -->
-<a href="https://dev.to/imranparthib" target="blank"><img align="center"
+            alt="mdimranhs" height="30" width="40" /></a> -->
+<a href="https://dev.to/mdimranhs" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="imranparthib" height="30" width="40" /></a>
+            alt="mdimranhs" height="30" width="40" /></a>
 <!-- <a href="https://codepen.io/@imran-parthib" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="@imran-parthib" height="30" width="40" /></a> -->
@@ -279,11 +279,9 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 # 🎗️ Support Me:
 
-<p><a href="https://www.buymeacoffee.com/imranparthib"> <img align="left"
+<p><a href="https://www.buymeacoffee.com/mdimranhs"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="imranparthib" /></a>
-            <!-- <a href="https://ko-fi.com/imranparthib"> <img align="left"
-            src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="imranparthib" /></a> -->
+            alt="mdimranhs" /></a>
             <a href="https://www.youtube.com/@decode_us"> <img align="left"
             src="https://ihitthebutton.com/wp-content/uploads/2020/11/youtube-subscribe-png.png" height="50" width="210" alt="Decode US" /></a></p><br><br>
 <hr>
@@ -293,18 +291,18 @@ These are my advanced and polished projects, showcasing full functionality and d
 <table >
     <tr>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats-fast.vercel.app/api?username=imranparthib&theme=react&hide_border=false&include_all_commits=true&count_private=true"
-                alt="imranparthib" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats-fast.vercel.app/api?username=mdimranhs&theme=react&hide_border=false&include_all_commits=true&count_private=true"
+                alt="mdimranhs" style="display: block; margin: 0 auto;" />
         </td>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imranparthib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-                alt="imranparthib" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdimranhs&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+                alt="mdimranhs" style="display: block; margin: 0 auto;" />
         </td>
     </tr>
     <tr>
         <td  style="text-align: center;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=imranparthib&theme=react&hide_border=false"
-                alt="imranparthib" style="display: block; margin: 0 auto;" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdimranhs&theme=react&hide_border=false"
+                alt="mdimranhs" style="display: block; margin: 0 auto;" />
         </td>
         <td  style="text-align: center;">
                 <img src="./image/fly.gif" alt="Flying animation" height="200" width="280" style="display: block; margin: 0 auto;" />
