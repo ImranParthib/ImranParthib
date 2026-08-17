@@ -195,7 +195,7 @@ These are my advanced and polished projects, showcasing full functionality and d
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"
             alt="mdimranhs" style="display:inline-block; height:50px; width:auto; border-radius: 88px; margin-right: 10px; vertical-align: middle;"/></a>
     <a href="https://www.youtube.com/@decode_us"><img
-            src="https://img.shields.io/badge/Subscribe-@decode_us-c4302b?style=for-the-badge&logo=youtube&logoColor=white"
+            src="https://img.shields.io/badge/Subscribe-c4302b?style=for-the-badge&logo=youtube&logoColor=white"
             height="50" alt="Decode US" style="display:inline-block; height:50px; width:auto; border-radius: 88px; vertical-align: middle;"/></a>
 </p>
 <hr>
