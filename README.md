@@ -192,9 +192,9 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 <p><a href="https://www.buymeacoffee.com/mdimranhs"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="mdimranhs" /></a>
+            alt="mdimranhs" style="border-radius: 8px;"/></a>
             <a href="https://www.youtube.com/@decode_us"> <img align="left"
-            src="https://img.shields.io/badge/Subscribe-@decode_us-c4302b?style=for-the-badge&logo=youtube&logoColor=white" height="50" width="210" alt="Decode US" /></a></p><br><br>
+            src="https://img.shields.io/badge/Subscribe-@decode_us-c4302b?style=for-the-badge&logo=youtube&logoColor=white" height="50" alt="Decode US" style="border-radius: 8px;"/></a></p><br><br>
 <hr>
 
 ## 📊 GitHub Stats
