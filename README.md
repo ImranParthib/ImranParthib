@@ -153,9 +153,9 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 <!-- YOUTUBE-VIDEOS-LIST:START --><table>
   <tr>
-    <td>
+    <td width="100">
       <a href="https://www.youtube.com/shorts/3uZLDCxQs74">
-        <img width="140px" src="https://img.youtube.com/vi/3uZLDCxQs74/hqdefault.jpg">
+        <img width="100px" src="https://img.youtube.com/vi/3uZLDCxQs74/hqdefault.jpg">
       </a>
     </td>
     <td>
@@ -163,13 +163,10 @@ These are my advanced and polished projects, showcasing full functionality and d
       Aug 6, 2025
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td>
+    <td width="100">
       <a href="https://www.youtube.com/watch?v=L-6X_NEFoAc">
-        <img width="140px" src="https://img.youtube.com/vi/L-6X_NEFoAc/hqdefault.jpg">
+        <img width="100px" src="https://img.youtube.com/vi/L-6X_NEFoAc/hqdefault.jpg">
       </a>
     </td>
     <td>
@@ -177,13 +174,10 @@ These are my advanced and polished projects, showcasing full functionality and d
       Aug 6, 2025
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td>
+    <td width="100">
       <a href="https://www.youtube.com/shorts/SgLfADL7EJs">
-        <img width="140px" src="https://img.youtube.com/vi/SgLfADL7EJs/hqdefault.jpg">
+        <img width="100px" src="https://img.youtube.com/vi/SgLfADL7EJs/hqdefault.jpg">
       </a>
     </td>
     <td>
@@ -192,7 +186,6 @@ These are my advanced and polished projects, showcasing full functionality and d
     </td>
   </tr>
 </table>
-
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
