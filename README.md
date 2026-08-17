@@ -51,7 +51,7 @@
 
 ![](https://trophy.benkou.dev/?username=mdimranhs&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-## **Latest Projects** 🚀
+## 🚀 Latest Projects
 
 These are my advanced and polished projects, showcasing full functionality and design.
 
@@ -118,7 +118,7 @@ These are my advanced and polished projects, showcasing full functionality and d
   </a>
 </p>
 
-### 🎥 [Latest YouTube Videos](https://youtube.com/@decode_us?sub_confirmation=1)
+## 🎥 [Latest YouTube Videos](https://youtube.com/@decode_us?sub_confirmation=1)
 
 <!-- YOUTUBE-VIDEOS-LIST:START --><table>
   <tr>
@@ -158,7 +158,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
-### 📝 [Latest Blog Posts](https://dev.to/mdimranhs)
+## 📝 [Latest Blog Posts](https://dev.to/mdimranhs)
 
 <!-- BLOG-POST-LIST:START -->
 - [From Custom Domain to Vercel Subdomain: How I Recovered My SEO Rankings](https://dev.to/mdimranhs/from-custom-domain-to-vercel-subdomain-how-i-recovered-my-seo-rankings-56i7)
@@ -168,7 +168,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 - [Navigating the Sea of Software Development: A Conscious Approach](https://dev.to/mdimranhs/navigating-the-sea-of-software-development-a-conscious-approach-3gcc)
 <!-- BLOG-POST-LIST:END -->
 
-## 🌐 Stay Updated with me:
+## 🤝 Let's Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/mdimranhs" target="blank"><img align="center"
@@ -188,16 +188,16 @@ These are my advanced and polished projects, showcasing full functionality and d
             alt="mdimranhs" height="30" width="40" /></a>
 
 
-# 🎗️ Support Me:
+## 🎗️ Support Me
 
 <p><a href="https://www.buymeacoffee.com/mdimranhs"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="mdimranhs" /></a>
             <a href="https://www.youtube.com/@decode_us"> <img align="left"
-            src="https://ihitthebutton.com/wp-content/uploads/2020/11/youtube-subscribe-png.png" height="50" width="210" alt="Decode US" /></a></p><br><br>
+            src="https://img.shields.io/badge/Subscribe-@decode_us-c4302b?style=for-the-badge&logo=youtube&logoColor=white" height="50" alt="Decode US" /></a></p><br><br>
 <hr>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <table >
     <tr>
