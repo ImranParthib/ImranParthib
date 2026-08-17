@@ -190,11 +190,14 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 ## 🎗️ Support Me
 
-<p><a href="https://www.buymeacoffee.com/mdimranhs"> <img align="left"
+<p>
+    <a href="https://www.buymeacoffee.com/mdimranhs"><img
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="mdimranhs" /></a>
-            <a href="https://www.youtube.com/@decode_us"> <img align="left"
-            src="https://img.shields.io/badge/Subscribe-@decode_us-c4302b?style=for-the-badge&logo=youtube&logoColor=white" height="50" width="350"  alt="Decode US" style="border-radius:8px;" /></a></p><br><br>
+            alt="mdimranhs" style="border-radius: 8px; margin-right: 10px; vertical-align: middle;"/></a>
+    <a href="https://www.youtube.com/@decode_us"><img
+            src="https://img.shields.io/badge/Subscribe-@decode_us-c4302b?style=for-the-badge&logo=youtube&logoColor=white"
+            height="50" alt="Decode US" style="border-radius: 8px; vertical-align: middle;"/></a>
+</p>
 <hr>
 
 ## 📊 GitHub Stats
