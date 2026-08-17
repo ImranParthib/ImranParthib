@@ -69,14 +69,7 @@ These are my advanced and polished projects, showcasing full functionality and d
      <!-- Extramile E-Commerce Project -->
   <tr>  
 	<td><strong>ExtraMile-Ecommerce Store</strong></td>  
-	<td>  
-		<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>  
-		<img src="https://img.shields.io/badge/-App%20Router-000000?style=flat&logo=next.js&logoColor=white" alt="App Router"/>  
-		<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
-		<img src="https://img.shields.io/badge/-Context%20API-61DAFB?style=flat&logo=react&logoColor=white" alt="Context API"/>  
-		<img src="https://img.shields.io/badge/-WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" alt="WooCommerce"/>  
-		<img src="https://img.shields.io/badge/-SSLCommerz-FFA500?style=flat&logo=mastercard&logoColor=white" alt="SSLCommerz"/>  
-	</td>  
+	<td>Next.js · App Router · TailwindCSS · Context API · WooCommerce · SSLCommerz</td>  
 	<td><a href="https://extramile.vercel.app/" target="_blank">
 		<img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 	</a></td>  
@@ -86,13 +79,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 	 <!-- Online Kenakata E-Commerce UI -->
 	<tr>  
 	<td><strong>Chaldal UI Clone</strong></td>  
-	<td>  
-		<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>  
-		<img src="https://img.shields.io/badge/-App%20Router-000000?style=flat&logo=next.js&logoColor=white" alt="App Router"/>  
-		<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
-		<img src="https://img.shields.io/badge/-Context%20API-61DAFB?style=flat&logo=react&logoColor=white" alt="Context API"/> 
-		<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"/> 
-	</td>  
+	<td>Next.js · App Router · TailwindCSS · Context API · Redux</td>  
 	<td><a href="https://onlinekenakata.vercel.app/" target="_blank">
 		<img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/>
 	</a></td>  
@@ -101,26 +88,14 @@ These are my advanced and polished projects, showcasing full functionality and d
 	</tr> 
     <tr>  
       <td><strong>PiLab</strong></td>  
-      <td>  
-        <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white" alt="React"/>  
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>  
-        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
-        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>  
-      </td>  
+      <td>React · JavaScript · TailwindCSS · Firebase</td>  
       <td><a href="https://pilab.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
       <td><a href="https://github.com/mdimranhs/PiLab" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
       <td><img src="./LatestWebProjects/pilab.png" alt="PiLab Screenshot" width="150"/></td>  
     </tr>   
     <tr>  
       <td><strong>Islamic Mission Japan</strong></td>  
-      <td>  
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>  
-        <img src="https://img.shields.io/badge/-Recoil-3578E5?style=flat&logo=react&logoColor=white" alt="Recoil"/>  
-        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
-        <img src="https://img.shields.io/badge/-Framer%20Motion-FF0050?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>  
-        <img src="https://img.shields.io/badge/-Component%20Based-61DAFB?style=flat&logo=react&logoColor=white" alt="Component Based"/>  
-        <img src="https://img.shields.io/badge/-Single%20Page-000000?style=flat&logo=web&logoColor=white" alt="Single Page Website"/>  
-      </td>  
+      <td>Next.js · Recoil · TailwindCSS · Framer Motion</td>  
       <td><a href="https://islamic-mission-japan.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/>
       </a></td>  
@@ -129,13 +104,7 @@ These are my advanced and polished projects, showcasing full functionality and d
     </tr>
     <tr>
       <td><strong>StackBridge</strong></td>  
-      <td>  
-        <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>  
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
-        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>  
-        <img src="https://img.shields.io/badge/-Animated%20Cursor-fedcba?style=plastic" alt="Animated Cursor"/>  
-      </td>  
+      <td>React · JavaScript · TailwindCSS · HTML5</td>  
       <td><a href="https://stack-bridge-bay.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
       <td><a href="https://github.com/mdimranhs/StackBridge" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
       <td><img src="./LatestWebProjects/stackbridge.png" alt="StackBridge Screenshot" width="150"/></td>  
